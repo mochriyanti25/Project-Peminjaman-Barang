@@ -1,0 +1,22 @@
+{
+  "name": "project-peminjaman-barang",
+  "version": "1.0.0",
+  "description": "Sistem Peminjaman Barang",
+  "keywords": [
+    "peminjaman",
+    "barang",
+    "REST",
+    "API",
+    "Express"
+  ],
+  "license": "ISC",
+  "author": "Moch Riyan Fauzi",
+  "type": "commonjs",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "express": "^5.3.0"
+  }
+}
